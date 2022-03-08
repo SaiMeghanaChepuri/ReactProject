@@ -1,0 +1,1 @@
+export const AddSample = (a,b) => a + b
